@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalareddy-16
 - 👀 I’m interested in Software Technologies
-- 🌱 I’m skilled in Python programming,SQL,HTML,Numpy,Pandas
+- 🌱 I’m skilled in Python programming,Java,SQL,HTML,Numpy,Pandas
 
 - 
 <!---
